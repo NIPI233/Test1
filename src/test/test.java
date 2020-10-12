@@ -6,6 +6,7 @@ import java.util.List;
 
 public class test {
 	public static void main(String[] args) {
+		//¸üÐÂ
 //		String str = "Group.@full_name.@Product Engineering.Engineering.JARC";
 //		String[] s = str.split("\\.@");
 //		for(String s1:s) {
